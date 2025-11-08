@@ -190,5 +190,4 @@ Olá! Sou Gabriel Mendes Lopes, um desenvolvedor backend apaixonado por criar so
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShybaPsY&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
----
 
