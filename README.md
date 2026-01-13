@@ -1,6 +1,6 @@
 # 🧑‍💻 Gabriel Lopes
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Fullstack`**
 
 Olá! Sou Gabriel Mendes Lopes, um desenvolvedor backend apaixonado por criar soluções eficientes, escaláveis e robustas. 
   Atualmente, estou no 5º termo do curso de Sistemas de Informação na [FIPP](https://www.unoeste.br/fipp/) (Faculdade de Informática de Presidente Prudente).
